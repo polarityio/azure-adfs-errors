@@ -11,6 +11,7 @@ module.exports = {
       regex: /AADSTS\d{5,6}/
     }
   ],
+  defaultColor: 'light-gray',
   onDemandOnly: true,
   styles: ['./styles/int.less'],
   block: {
