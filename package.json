@@ -5,6 +5,6 @@
   "description": "Azure ADFS Error Codes.",
   "private": true,
   "dependencies": {
-    "papaparse": "^5.0.0"
+    "papaparse": "^5.4.1"
   }
 }
