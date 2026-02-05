@@ -14,7 +14,9 @@
   ],
   "defaultColor": "light-gray",
   "onDemandOnly": true,
-  "styles": ["./styles/int.less"],
+  "styles": [
+    "./styles/int.less"
+  ],
   "block": {
     "component": {
       "file": "./components/block.js"
@@ -42,5 +44,10 @@
     "level": "info"
   },
   "options": [],
-  "entityTypes": []
+  "entityTypes": [],
+  "reducer": {
+    "details": {
+      "file": "./reducers/details.json"
+    }
+  }
 }

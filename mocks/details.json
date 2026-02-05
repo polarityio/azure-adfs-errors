@@ -1,0 +1,4 @@
+{
+  "Code": "AADSTS50053",
+  "Description": "IdsLocked - The account is locked because the user tried to sign in too many times with an incorrect user ID or password. The user will be locked out for a period of time, or an administrator must manually unlock the account. This error is commonly returned when there are repeated failed authentication attempts."
+}
